@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-@Author  : Tushar Mittal (chiragmittal.mittal@gmail.com)
-Flask API to return random meme images
-"""
 
 import random
 import requests
